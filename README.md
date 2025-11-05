@@ -5,3 +5,5 @@ decrypted and encrypted nioh 2 ps4 saves
 Custome AES CTR, uses custom S-Box. hardcoded Key and nonce/counter.
 
 Haven't checked for the checksum algorithm, but there are flags that will disable the integrity checks, which the script will do
+
+Custom AES from: https://github.com/pawREP/Nioh-Savedata-Decryption-Tool
