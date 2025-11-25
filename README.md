@@ -14,3 +14,5 @@ checksum can be disabled by sitting certien flags to zero at offsets (not includ
         data[0xECF4A+0x10] = 0
 
 Custom AES from: https://github.com/pawREP/Nioh-Savedata-Decryption-Tool
+
+pure AES from: https://github.com/boppreh/aes
